@@ -1,5 +1,4 @@
 # URL-shortner 
-Here’s a polished and recruiter-friendly README.md template for your URL Shortener project in Python, Kiruthika — perfect for showcasing your backend skills, API design, and web development capabilities on your murali1304-hub GitHub profile.
 
 🔗 URL Shortener in Python
 A lightweight URL shortening service built using Python. It converts long URLs into short, shareable links — similar to services like Bitly or TinyURL. This project demonstrates API design, routing, and optional analytics tracking.
